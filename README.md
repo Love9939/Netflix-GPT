@@ -38,6 +38,8 @@
 - usePopularMovies Custom hook
 - useTopRatedMovies Custom hook
 - useUpcomingMovies Custom hook
+- GPT Search Bar
+- GPT Search Page
 
 
 

@@ -40,6 +40,17 @@
 - useUpcomingMovies Custom hook
 - GPT Search Bar
 - GPT Search Page
+- Get Open AI Api Key
+- Gpt Search API Call
+- fetched gptMoviesSuggestions from TMDB
+- created gptSlice added data
+- Resused Movie List component to make movie suggestion container
+- showed Moive trailer on clicking on movie card
+- Memoization
+- Added .env file
+- Adding .env file to gitignore
+- Made our Site Responsive-
+
 
 
 
